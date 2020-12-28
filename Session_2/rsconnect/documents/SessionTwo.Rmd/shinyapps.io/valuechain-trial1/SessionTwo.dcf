@@ -1,0 +1,12 @@
+name: SessionTwo
+title: SessionTwo
+username:
+account: valuechain-trial1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3432347
+bundleId: 4036458
+url: https://valuechain-trial1.shinyapps.io/SessionTwo/
+when: 1609188132.98402
+asMultiple: FALSE
+asStatic: FALSE
